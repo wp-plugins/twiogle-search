@@ -2,8 +2,8 @@
 /*
 Plugin Name: Twiogle Search - Search Google & Twitter at the same time
 Plugin URI: http://twiogle.com
-Description: This adds a widgit so you can search Google and Twitter at the same time.
-Version: 1.6
+Description: This adds a widgit so you can search Google and at the same time.  Google results are displayed on the left the <a href="http://twiogle.com">Twitter Search</a> is displayed on the right.
+Version: 1.65
 Author: Benjiballin , Armastevs
 Author URI: http://twiogle.com
 */
