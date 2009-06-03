@@ -3,7 +3,7 @@ Contributors: benjiballin, armastevs
 Donate link: http://twiogle.com/
 Tags: google, twitter, twitter search, google search
 Requires at least: 2.0.2
-Tested up to: 2.1
+Tested up to: 3.0
 Stable tag: 4.3
 
 == Description ==
