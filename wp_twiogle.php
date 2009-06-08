@@ -16,7 +16,7 @@ function wp_twiogle_widget() {
 <input type="text" id="q" size="15"/>
 <button onclick="javascript: openNew();">Twiogle it!</button>
 </form>
-
+<p></p>
 <script type="text/javascript">
 function openNew()
 {
