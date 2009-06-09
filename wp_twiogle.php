@@ -2,8 +2,8 @@
 /*
 Plugin Name: Twiogle
 Plugin URI: http://twiogle.com
-Description: This adds a widgit so you can search Google and Twitter at the same time.
-Version: 1.45
+Description: Search Google and Twitter at the same time, adsense integration so ads are displayed on Twiogle.com for your account.
+Version: 1.46
 Author: Benjiballin
 Author URI: http://twiogle.com
 */
