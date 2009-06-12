@@ -3,7 +3,7 @@
 Plugin Name: Twiogle
 Plugin URI: http://twiogle.com
 Description: Search Google and Twitter at the same time, adsense integration so ads are displayed on Twiogle.com for your account.
-Version: 1.46
+Version: 1.47
 Author: Benjiballin
 Author URI: http://twiogle.com
 */
@@ -99,7 +99,7 @@ function wp_twiogle_widget() {
 <form onSubmit="openNew();" id="cse-search-box">
 
 <input type="text" id="q" size="15"/>
-<button onclick="javascript: openNew();">Twiogle it!</button>
+<button type="submit">Twiogle it!</button>
 </form>
 <p></p>
 <br></br>
