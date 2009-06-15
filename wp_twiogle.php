@@ -3,7 +3,7 @@
 Plugin Name: Twiogle
 Plugin URI: http://twiogle.com
 Description: Search Google and Twitter at the same time, adsense integration so ads are displayed on Twiogle.com for your account.
-Version: 1.47
+Version: 1.48
 Author: Benjiballin
 Author URI: http://twiogle.com
 */
@@ -77,7 +77,7 @@ ex: pub-5117280332430555</p><hr />
 
 <p><?php _e("Channel:", 'mt_trans_domain' ); ?> 
 <input type="text" name="<?php echo $data_field_name2; ?>" value="<?php echo $opt_val2; ?>" size="20">
-ex: 123123123</p><hr />
+ex: 2758873412</p><hr />
 
 <p class="submit">
 <input type="submit" name="Submit" value="<?php _e('Update Options', 'mt_trans_domain' ) ?>" />
